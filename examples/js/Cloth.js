@@ -4,7 +4,7 @@
 
 // Suggested Readings
 
-// Advanced Character Physics by Thomas Jakobsen Character
+// Advanced Character Physics by Thomas Jakobsen
 // http://freespace.virgin.net/hugo.elias/models/m_cloth.htm
 // http://en.wikipedia.org/wiki/Cloth_modeling
 // http://cg.alexandra.dk/tag/spring-mass-system/
